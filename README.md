@@ -3,6 +3,7 @@ Um churrascômetro que calcula quantidade de alimentos que devem ser levados par
 
 ![screnshot3gif](https://user-images.githubusercontent.com/72710750/97951523-360cf800-1d79-11eb-94f8-77979c039576.gif)
 
+[https://johnnykleyson.github.io/churrascometro/]
 
 ### **RESUMO:**
 
